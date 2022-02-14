@@ -1,0 +1,87 @@
+lbl1.Caption = cmbNumeros.Text
+If lbl1.Caption = lbl2.Caption Or lbl1.Caption = lbl3.Caption Or lbl1.Caption = lbl10.Caption Or lbl1.Caption = lbl11.Caption Or lbl1.Caption = lbl12.Caption Or lbl1.Caption = lbl19.Caption Or lbl1.Caption = lbl20.Caption Or lbl1.Caption = lbl21.Caption Or lbl1.Caption = lbl4.Caption Or lbl1.Caption = lbl7.Caption Or lbl1.Caption = lbl28.Caption Or lbl1.Caption = lbl31.Caption Or lbl1.Caption = lbl34.Caption Or lbl1.Caption = lbl55.Caption Or lbl1.Caption = lbl58.Caption Or lbl1.Caption = lbl61.Caption Or lbl1.Caption = lbl5.Caption Or lbl1.Caption = lbl6.Caption Or lbl1.Caption = lbl8.Caption Or lbl1.Caption = lbl9.Caption Then
+    lbl1.ForeColor = &HFF&
+Else
+    lbl1.ForeColor = &H0&
+End If
+    Call Ganhou
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+ lbl14.Caption = cmbNumeros.Text
+If lbl14.Caption = lbl4.Caption Or lbl14.Caption = lbl5.Caption Or lbl14.Caption = lbl6.Caption Or lbl14.Caption = lbl13.Caption Or lbl14.Caption = lbl15.Caption Or lbl14.Caption = lbl22.Caption Or lbl14.Caption = lbl23.Caption Or lbl14.Caption = lbl24.Caption Or lbl14.Caption = lbl17.Caption Or lbl14.Caption = lbl38.Caption Or lbl14.Caption = lbl41.Caption Or lbl14.Caption = lbl44.Caption Or lbl14.Caption = lbl65.Caption Or lbl14.Caption = lbl68.Caption Or lbl14.Caption = lbl71.Caption Or lbl14.Caption = lbl11.Caption Or lbl14.Caption = lbl10.Caption Or lbl14.Caption = lbl12.Caption Or lbl14.Caption = lbl16.Caption Or lbl14.Caption = lbl18.Caption Then
+    lbl14.ForeColor = &HFF&
+Else
+    lbl14.ForeColor = &H0&
+End If
+    Call Ganhou
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+lbl27.Caption = cmbNumeros.Text
+If lbl27.Caption = lbl7.Caption Or lbl27.Caption = lbl8.Caption Or lbl27.Caption = lbl9.Caption Or lbl27.Caption = lbl16.Caption Or lbl27.Caption = lbl17.Caption Or lbl27.Caption = lbl18.Caption Or lbl27.Caption = lbl19.Caption Or lbl27.Caption = lbl20.Caption Or lbl27.Caption = lbl21.Caption Or lbl27.Caption = lbl22.Caption Or lbl27.Caption = lbl23.Caption Or lbl27.Caption = lbl24.Caption Or lbl27.Caption = lbl25.Caption Or lbl27.Caption = lbl26.Caption Or lbl27.Caption = lbl48.Caption Or lbl27.Caption = lbl51.Caption Or lbl27.Caption = lbl54.Caption Or lbl27.Caption = lbl75.Caption Or lbl27.Caption = lbl78.Caption Or lbl27.Caption = lbl81.Caption Then
+    lbl27.ForeColor = &HFF&
+Else
+    lbl27.ForeColor = &H0&
+End If
+    Call Ganhou
+
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________                                                                                                                                                                                                                                                                                                                                                                                   
+lbl32.Caption = cmbNumeros.Text
+If lbl32.Caption = lbl2.Caption Or lbl32.Caption = lbl5.Caption Or lbl32.Caption = lbl8.Caption Or lbl32.Caption = lbl56.Caption Or lbl32.Caption = lbl59.Caption Or lbl32.Caption = lbl62.Caption Or lbl32.Caption = lbl28.Caption Or lbl32.Caption = lbl29.Caption Or lbl32.Caption = lbl30.Caption Or lbl32.Caption = lbl31.Caption Or lbl32.Caption = lbl33.Caption Or lbl32.Caption = lbl34.Caption Or lbl32.Caption = lbl35.Caption Or lbl32.Caption = lbl36.Caption Or lbl32.Caption = lbl40.Caption Or lbl32.Caption = lbl41.Caption Or lbl32.Caption = lbl42.Caption Or lbl32.Caption = lbl49.Caption Or lbl32.Caption = lbl50.Caption Or lbl32.Caption = lbl51.Caption Then
+    lbl32.ForeColor = &HFF&
+Else
+    lbl32.ForeColor = &H0&
+End If
+    Call Ganhou
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+lbl52.Caption = cmbNumeros.Text
+If lbl52.Caption = lbl19.Caption Or lbl52.Caption = lbl22.Caption Or lbl52.Caption = lbl25.Caption Or lbl52.Caption = lbl73.Caption Or lbl52.Caption = lbl76.Caption Or lbl52.Caption = lbl79.Caption Or lbl52.Caption = lbl46.Caption Or lbl52.Caption = lbl47.Caption Or lbl52.Caption = lbl48.Caption Or lbl52.Caption = lbl49.Caption Or lbl52.Caption = lbl50.Caption Or lbl52.Caption = lbl51.Caption Or lbl52.Caption = lbl53.Caption Or lbl52.Caption = lbl54.Caption Or lbl52.Caption = lbl34.Caption Or lbl52.Caption = lbl35.Caption Or lbl52.Caption = lbl36.Caption Or lbl52.Caption = lbl43.Caption Or lbl52.Caption = lbl44.Caption Or lbl52.Caption = lbl45.Caption Then
+    lbl52.ForeColor = &HFF&
+Else
+    lbl52.ForeColor = &H0&
+End If
+    Call Ganhou
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+lbl61.Caption = cmbNumeros.Text
+If lbl61.Caption = lbl1.Caption Or lbl61.Caption = lbl4.Caption Or lbl61.Caption = lbl7.Caption Or lbl61.Caption = lbl28.Caption Or lbl61.Caption = lbl31.Caption Or lbl61.Caption = lbl34.Caption Or lbl61.Caption = lbl55.Caption Or lbl61.Caption = lbl56.Caption Or lbl61.Caption = lbl57.Caption Or lbl61.Caption = lbl58.Caption Or lbl61.Caption = lbl59.Caption Or lbl61.Caption = lbl60.Caption Or lbl61.Caption = lbl62.Caption Or lbl61.Caption = lbl63.Caption Or lbl61.Caption = lbl70.Caption Or lbl61.Caption = lbl71.Caption Or lbl61.Caption = lbl72.Caption Or lbl61.Caption = lbl79.Caption Or lbl61.Caption = lbl80.Caption Or lbl61.Caption = lbl81.Caption Then
+    lbl61.ForeColor = &HFF&
+Else
+    lbl61.ForeColor = &H0&
+End If
+    Call Ganhou
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+lbl68.Caption = cmbNumeros.Text
+If lbl68.Caption = lbl11.Caption Or lbl68.Caption = lbl14.Caption Or lbl68.Caption = lbl17.Caption Or lbl68.Caption = lbl38.Caption Or lbl68.Caption = lbl41.Caption Or lbl68.Caption = lbl44.Caption Or lbl68.Caption = lbl64.Caption Or lbl68.Caption = lbl65.Caption Or lbl68.Caption = lbl66.Caption Or lbl68.Caption = lbl67.Caption Or lbl68.Caption = lbl69.Caption Or lbl68.Caption = lbl70.Caption Or lbl68.Caption = lbl71.Caption Or lbl68.Caption = lbl72.Caption Or lbl68.Caption = lbl58.Caption Or lbl68.Caption = lbl59.Caption Or lbl68.Caption = lbl60.Caption Or lbl68.Caption = lbl76.Caption Or lbl68.Caption = lbl77.Caption Or lbl68.Caption = lbl78.Caption Then
+    lbl68.ForeColor = &HFF&
+Else
+    lbl68.ForeColor = &H0&
+End If
+    Call Ganhou
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+lbl38.Caption = cmbNumeros.Text
+If lbl38.Caption = lbl11.Caption Or lbl38.Caption = lbl14.Caption Or lbl38.Caption = lbl17.Caption Or lbl38.Caption = lbl65.Caption Or lbl38.Caption = lbl68.Caption Or lbl38.Caption = lbl71.Caption Or lbl38.Caption = lbl37.Caption Or lbl38.Caption = lbl39.Caption Or lbl38.Caption = lbl40.Caption Or lbl38.Caption = lbl41.Caption Or lbl38.Caption = lbl42.Caption Or lbl38.Caption = lbl43.Caption Or lbl38.Caption = lbl44.Caption Or lbl38.Caption = lbl45.Caption Or lbl38.Caption = lbl28.Caption Or lbl38.Caption = lbl29.Caption Or lbl38.Caption = lbl30.Caption Or lbl38.Caption = lbl46.Caption Or lbl38.Caption = lbl47.Caption Or lbl38.Caption = lbl48.Caption Then
+    lbl38.ForeColor = &HFF&
+Else
+    lbl38.ForeColor = &H0&
+End If
+    Call Ganhou
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+lbl75.Caption = cmbNumeros.Text
+If lbl75.Caption = lbl21.Caption Or lbl75.Caption = lbl24.Caption Or lbl75.Caption = lbl27.Caption Or lbl75.Caption = lbl48.Caption Or lbl75.Caption = lbl51.Caption Or lbl75.Caption = lbl54.Caption Or lbl75.Caption = lbl73.Caption Or lbl75.Caption = lbl74.Caption Or lbl75.Caption = lbl76.Caption Or lbl75.Caption = lbl77.Caption Or lbl75.Caption = lbl78.Caption Or lbl75.Caption = lbl79.Caption Or lbl75.Caption = lbl80.Caption Or lbl75.Caption = lbl81.Caption Or lbl75.Caption = lbl55.Caption Or lbl75.Caption = lbl56.Caption Or lbl75.Caption = lbl57.Caption Or lbl75.Caption = lbl64.Caption Or lbl75.Caption = lbl65.Caption Or lbl75.Caption = lbl66.Caption Then
+    lbl75.ForeColor = &HFF&
+Else
+    lbl75.ForeColor = &H0&
+End If
+    Call Ganhou

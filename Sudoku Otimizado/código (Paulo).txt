@@ -1,0 +1,10 @@
+Sub Ganhou()
+x(0 To 80)
+If lbl(x).ForeColor = &H0& Then
+Call MsgBox("Parabéns você ganhou o jogo!!")
+lbl(x).Caption = "" And lbl(x).ForeColor = &H0&
+End If
+End Sub
+Private Sub lbl_Click(Index As Integer)
+lbl(x).Caption = cmbNumeros.Text
+End Sub
